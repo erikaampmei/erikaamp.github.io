@@ -18,3 +18,15 @@
 section {
   padding-top: 5rem;
 }
+
+#gallery {
+  background-color: rgb(255, 255, 255);
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
